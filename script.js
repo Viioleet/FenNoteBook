@@ -38,7 +38,7 @@ addButton.addEventListener("click", async function () {
     (ex) => ex.name.toLowerCase() == addName.toLowerCase(),
   );
   if (exist) {
-    Swal.fire("Error", "This Game Name Aleady Exist", "error");
+    Swal.fire("Error", "This Game Name Already Exist", "error");
     return;
   }
 
