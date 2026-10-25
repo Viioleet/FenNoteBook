@@ -35,5 +35,7 @@ A small web application for saving chess positions. When you enter a FEN code an
 2. Open the `index.html` file in your browser.
 
 No API key is required. An internet connection is required because the board images and SweetAlert2 are loaded online.
+Live Demo : https://viioleet.github.io/FenNoteBook/
 
 Created by **Viioleet** as a personal development project.
+ 
