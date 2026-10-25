@@ -159,7 +159,7 @@ async function editCard(item) {
   );
 
   if (exist) {
-    Swal.fire("Error", "This Game Name Aleady Exist", "error");
+    Swal.fire("Error", "This Game Name Already Exist", "error");
     return;
   }
 
